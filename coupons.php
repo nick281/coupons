@@ -1,3 +1,4 @@
+<?php
 	function carolls_coupons_statistic_init(){ 
 	
 		require_once CAROLLS_PLUGIN_DIR .'inc/db-pdo-app.php';
@@ -73,3 +74,5 @@
 
 
 	}
+
+?>
